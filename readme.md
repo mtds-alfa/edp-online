@@ -9,3 +9,5 @@ Projeto prático para estudo de Smart Contract, abordando assuntos:
   Função Hash e Função ABI
   Boas práticas
 
+Como clonar repositório:
+https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui
