@@ -14,8 +14,9 @@ https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloni
 
 Hash da transação to-do-list para ser aberta no Block Explorer:
 0xAD8266D8254374E5805b6D30585B237753659909
+
 *******************************************************************
-Projeto prático to-do-list para estudo de Smart Contract, abordando assuntos:
+Projeto prático donations para estudo de Smart Contract, abordando assuntos:
   Funções Privadas, Internas e Payable
   Mappings
   Variáveis do Tipo address e Suas Propriedades
