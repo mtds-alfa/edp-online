@@ -1,25 +1,25 @@
 Projeto prático to-do-list para estudo de Smart Contract, abordando assuntos:
-  Structs
-  Alocação de dados
-  Tipos de Dados - Valor e Referência
-  Array
-  Variáveis globais
-  Estrutura de Controle e Fluxo
-  Operadores de Incremento e Comparação
-  Função Hash e Função ABI
-  Boas práticas
+  -Structs
+  -Alocação de dados
+  -Tipos de Dados - Valor e Referência
+  -Array
+  -Variáveis globais
+  -Estrutura de Controle e Fluxo
+  -Operadores de Incremento e Comparação
+  -Função Hash e Função ABI
+  -Boas práticas
 
 Como clonar repositório:
-clonar
-git clone hash
+  -clonar
+    -git clone hash
 
-gravar
-git add .
-git commit -m "msg"
-git push -u origin master
+  -gravar
+    -git add .
+    -git commit -m "msg"
+    -git push -u origin master
 
-ou
-https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui
+  -ou
+    -https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui
 
 Hash da transação to-do-list para ser aberta no Block Explorer:
 0xAD8266D8254374E5805b6D30585B237753659909
@@ -40,16 +40,16 @@ Projeto prático donations para estudo de Smart Contract, abordando assuntos:
   Padrões de Segurança e Boas Práticas
 
 Como clonar repositório:
-clonar
-git clone hash
+  -clonar
+    -git clone hash
 
-gravar
-git add .
-git commit -m "msg"
-git push -u origin master
+  -gravar
+    -git add .
+    -git commit -m "msg"
+    -git push -u origin master
 
-ou
-https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui
+  -ou
+    -https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui
 
 Hash da transação donations para ser aberta no Block Explorer:
 0xc28322d8098723C8e5B2EC63097Ef19114a0989c
