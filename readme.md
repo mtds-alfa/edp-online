@@ -10,6 +10,15 @@ Projeto prático to-do-list para estudo de Smart Contract, abordando assuntos:
   Boas práticas
 
 Como clonar repositório:
+clonar
+git clone hash
+
+gravar
+git add .
+git commit -m "msg"
+git push -u origin master
+
+ou
 https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui
 
 Hash da transação to-do-list para ser aberta no Block Explorer:
@@ -31,6 +40,15 @@ Projeto prático donations para estudo de Smart Contract, abordando assuntos:
   Padrões de Segurança e Boas Práticas
 
 Como clonar repositório:
+clonar
+git clone hash
+
+gravar
+git add .
+git commit -m "msg"
+git push -u origin master
+
+ou
 https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui
 
 Hash da transação donations para ser aberta no Block Explorer:
